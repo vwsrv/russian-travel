@@ -8,21 +8,21 @@
     padding: 0;
 }
 
-@media (min-width: 769px) and (max-width: 1024px) {
+@media (min-width: 768px) and (max-width: 1024px) {
     .header {
         margin: 28px auto 48px;
         max-width: calc(100% - 96px);
     }
 }
 
-@media (min-width: 321px) and (max-width: 768px) {
+@media (min-width: 425px) and (max-width: 768px) {
     .header {
         margin: 28px auto 48px;
         max-width: calc(100% - 48px);
     }
 }
 
-@media (min-width: 0px) and (max-width: 320px) {
+@media (max-width: 425px) {
     .header {
         margin: 16px auto 48px;
         max-width: calc(100% - 32px);

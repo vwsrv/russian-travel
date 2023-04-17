@@ -5,13 +5,13 @@
     background-color:rgba(0, 0, 0, .5);
 }
 
-@media (min-width: 321px) and (max-width: 760px) {
+@media (min-width: 425px) and (max-width: 768px) {
     .cover {
         margin: 0 auto 88px;
     }
 }
 
-@media (min-width: 0px) and (max-width: 320px) {
+@media (max-width: 428px) {
     .cover {
         margin: 0 auto 64px;
     }

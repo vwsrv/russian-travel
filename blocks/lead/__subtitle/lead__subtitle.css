@@ -9,13 +9,13 @@
     line-height: 36px;
 }
 
-@media (min-width: 321px) and (max-width: 1024px) {
+@media (min-width: 425px) and (max-width: 1024px) {
     .lead__subtitle {
         margin: 0 auto 56px;
     }
 }
 
-@media (min-width: 0) and (max-width: 320px) {
+@media (max-width: 425px) {
     .lead__subtitle {
         margin: 0 auto 40px;
         font-style: 'Regular';

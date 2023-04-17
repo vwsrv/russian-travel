@@ -4,19 +4,19 @@
     color: white;
 }
 
-@media (min-width: 769px) and (max-width: 1024px) {
+@media (min-width: 768px) and (max-width: 1024px) {
     .places {
         margin: 0 48px 92px;
     }
 }
 
-@media (min-width: 321px) and (max-width: 768px) {
+@media (min-width: 425px) and (max-width: 768px) {
     .places {
         margin: 0 24px 90px;
     }
 }
 
-@media (min-width: 0px) and (max-width: 320px) {
+@media (max-width: 425px) {
     .places {
         margin: 0 auto 66px;
     }

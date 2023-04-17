@@ -4,19 +4,19 @@
     padding: 0;
 }
 
-@media (min-width: 769px) and (max-width: 1024px) {
+@media (min-width: 768px) and (max-width: 1024px) {
     .page {
         max-width: 1024px;
     }
 }
 
-@media (min-width: 321px) and (max-width: 768px) {
+@media (min-width: 425px) and (max-width: 768px) {
     .page {
         max-width: 768px;
     }
 }
 
-@media (min-width: 0px) and (max-width: 320px) {
+@media (max-width: 425px) {
     .page {
         max-width: 320px;
     }
