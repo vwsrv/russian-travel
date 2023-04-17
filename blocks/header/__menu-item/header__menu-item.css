@@ -1,0 +1,8 @@
+.header__menu-item {
+    margin-right: 18px;
+    padding: 0;
+}
+
+.header__menu-item:nth-last-child(1) {
+    margin: 0;
+}

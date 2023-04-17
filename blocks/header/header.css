@@ -1,0 +1,30 @@
+.header {
+    box-sizing: content-box;
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    max-width: 1184px;
+    margin: 28px auto 52px;
+    padding: 0;
+}
+
+@media (min-width: 769px) and (max-width: 1024px) {
+    .header {
+        margin: 28px auto 48px;
+        max-width: calc(100% - 96px);
+    }
+}
+
+@media (min-width: 321px) and (max-width: 768px) {
+    .header {
+        margin: 28px auto 48px;
+        max-width: calc(100% - 48px);
+    }
+}
+
+@media (min-width: 0px) and (max-width: 320px) {
+    .header {
+        margin: 16px auto 48px;
+        max-width: calc(100% - 32px);
+    }
+}
