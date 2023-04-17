@@ -1,0 +1,27 @@
+.intro {
+    max-width: 690px;
+    margin: 0 0 92px;
+    padding-left: 100px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    max-width: 800px;
+    box-sizing: border-box;
+}
+
+@media (min-width: 321px) and (max-width: 768px) {
+    .intro {
+        padding: 0;
+        margin: 0 auto 88px;
+        max-width: calc(100% - 48px);
+    }
+}
+
+@media (min-width: 0px) and (max-width: 320px) {
+    .intro {
+        padding: 0;
+        margin: 0 auto 64px;
+        max-width: calc(100% - 32px);
+    }
+}

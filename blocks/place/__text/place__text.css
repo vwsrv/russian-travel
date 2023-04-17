@@ -1,0 +1,24 @@
+.place__text {
+    max-width: 484px;
+    margin: 0;
+    padding: 0;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 163%;
+}
+
+@media (min-width: 321px) and (max-width: 768px) {
+    .place__text {
+        font-size: 16px;
+    }
+}
+
+@media (min-width: 0px) and (max-width: 320px) {
+    .place__text {
+        margin: 0 16px 0;
+        font-style: 'Regular';
+        font-size: 16px;
+        line-height: 163%;
+    }
+}

@@ -1,0 +1,18 @@
+.cover {
+    max-width: 100%;
+    padding: 0;
+    margin: 0 auto 92px;
+    background-color:rgba(0, 0, 0, .5);
+}
+
+@media (min-width: 321px) and (max-width: 760px) {
+    .cover {
+        margin: 0 auto 88px;
+    }
+}
+
+@media (min-width: 0px) and (max-width: 320px) {
+    .cover {
+        margin: 0 auto 64px;
+    }
+}

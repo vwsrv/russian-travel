@@ -1,0 +1,12 @@
+.header__logo-pic {
+    margin: 0;
+    padding: 0;
+    max-width: 176px;
+    max-height: 52px;
+}
+
+@media (min-width: 0) and (max-width: 320px) {
+    .header__logo-pic {
+        max-width: 142px;
+    }
+}
