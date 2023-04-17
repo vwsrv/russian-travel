@@ -4,6 +4,7 @@
 
 @media (min-width: 0px)  and (max-width: 320px) {
     .footer__links {
+        margin: 16px 0 24px;
         align-self: flex-start;
         font-style: 'Regular';
         font-weight: 400;
