@@ -17,7 +17,6 @@
 @media (max-width: 425px) {
     .place__text {
         margin: 0 16px 0;
-        font-style: 'Regular';
         font-size: 16px;
         line-height: 163%;
     }

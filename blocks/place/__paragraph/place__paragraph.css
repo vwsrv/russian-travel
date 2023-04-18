@@ -1,5 +1,9 @@
 .place__paragraph {
-    margin: 0 auto 26px;
+    margin: 0 auto 27px;
+}
+
+.place__paragraph:nth-last-child(1) {
+    margin: 0;
 }
 
 @media (max-width: 768px) {

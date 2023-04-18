@@ -3,25 +3,22 @@
     margin: 0px auto 24px;
     display: flex;
     justify-content: space-between;
+    flex-wrap: wrap;
     padding: 0;
 }
 
-@media (min-width: 769px) and (max-width: 1024px) {
-    .footer {
-        max-width: calc(100% - 96px);
-    }
-}
-
-@media (min-width: 425px) and (max-width: 768px) {
+@media (max-width: 767px) {
     .footer {
         max-width: calc(100% - 48px);
     }
 }
 
-@media (max-width: 425px) {
+@media (max-width: 424px) {
     .footer {
+        flex-direction: column;
+        align-content: flex-start;
+        margin: 0;
         max-width: 186px;
         margin: 0 16px 24px;
-        flex-direction: column;
     }
 }

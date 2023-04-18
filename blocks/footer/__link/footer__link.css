@@ -1,6 +1,6 @@
 .footer__link {
-    padding-right: 18px;
-    margin: 0 auto;
+    padding: 0;
+    margin: 0 18px 0 0;
     color: white;
     text-decoration: none;
     font-style: normal;
@@ -16,11 +16,10 @@
 }
 
 .footer__link:nth-last-child(1) {
-    padding: 0;
     margin: 0;
 }
 
-@media (max-width: 425px) {
+@media (max-width: 424px) {
     .footer__link {
         display: flex;
         margin: 0 0 32px;

@@ -17,8 +17,6 @@
 @media (max-width: 425px) {
     .place__title {
         margin: 0 16px 0;
-        font-style: 'Black';
-        font-weight: 900;
         font-size: 32px;
         line-height: 35px;
     }

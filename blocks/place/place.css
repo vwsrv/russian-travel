@@ -11,23 +11,21 @@
     margin: 0;
 }
 
-@media (min-width: 768px) and (max-width: 1024px) {
+@media (max-width: 1023px) {
     .place {
-        grid-template-columns: min-content 1fr;
         gap: 48px 32px;
-        margin: 0 auto;
+        margin: 0 auto 80px;
     }
 }
 
-@media (min-width: 425px) and (max-width: 768px) {
+@media (max-width: 767px) {
     .place {
         margin: 0px auto 73px;
-        gap: 48px 28px;
-        grid-template-columns: minmax(320px, 1fr) minmax(353px, 1fr);       
+        gap: 48px 28px;      
     }
 }
 
-@media (max-width: 425px) {
+@media (max-width: 630px) {
     .place {
         margin: 0 auto 50px;
         grid-template-columns: 1fr;

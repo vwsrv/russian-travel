@@ -1,9 +1,8 @@
 .lead__title {
     text-align: center;
-    margin: 0 auto;
+    margin: 0 0 32px 0;
     padding: 0;
     max-width: 720px;
-    padding-bottom: 32px;
     font-style: normal;
     font-weight: 900;
     font-size: 96px;
@@ -11,8 +10,9 @@
 }
 
 
-@media (max-width: 425px) {
+@media (max-width: 767px) {
     .lead__title {
+        margin: 0 0 16px 0;
         font-size: 40px;
         line-height: 44px;
     }

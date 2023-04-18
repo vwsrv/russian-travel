@@ -2,16 +2,15 @@
     max-width: 100%;
     padding: 0;
     margin: 0 auto 92px;
-    background-color:rgba(0, 0, 0, .5);
 }
 
-@media (min-width: 425px) and (max-width: 768px) {
+@media (max-width: 767px) {
     .cover {
-        margin: 0 auto 88px;
+        margin: 0 auto 90px;
     }
 }
 
-@media (max-width: 428px) {
+@media (max-width: 630px) {
     .cover {
         margin: 0 auto 64px;
     }

@@ -9,19 +9,19 @@
     color: white;
 }
 
-@media (min-width: 768px) and (max-width: 1024px) {
+@media (max-width: 1023px) {
     .lead {
         width: calc(100% - 96px);
     }
 }
 
-@media (min-width: 425px) and (max-width: 768px) {
+@media (max-width: 767px) {
     .lead {
         margin: 0px auto 88px;
     }
 }
 
-@media (max-width: 425px) {
+@media (max-width: 424px) {
     .lead {
         margin: 0px auto 64px;
     }

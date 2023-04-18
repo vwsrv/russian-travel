@@ -6,7 +6,7 @@
     line-height: 163%;
 }
 
-@media (min-width: 768px) and (max-width: 1024px) {
+@media (max-width: 424px) {
     .intro__subtitle {
         margin: 0 auto 56px;
     }

@@ -1,12 +1,14 @@
 .footer__links {
+    display: flex;
+    flex-direction: row;
     align-self: center;
+    flex-wrap: wrap;
 }
 
-@media (max-width: 425px) {
+@media (max-width: 424px) {
     .footer__links {
-        margin: 16px 0 24px;
-        align-self: flex-start;
-        font-style: 'Regular';
+        flex-direction: column;
+        margin: 0 0 48px; 
         font-weight: 400;
         font-size: 24px;
         line-height: 24px;
