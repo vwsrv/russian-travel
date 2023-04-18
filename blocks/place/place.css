@@ -1,17 +1,21 @@
 .place {
     margin: 0px auto 80px;
-    max-width: 984px;
     padding: 0;
     display: grid;
-    grid-template-columns: minmax(440px, 460px) minmax(456px, 484px);
+    grid-template-columns: min-content 1fr;
     gap: 48px 40px;
     color: white;
 }
 
+.place:nth-last-child(1) {
+    margin: 0;
+}
+
 @media (min-width: 768px) and (max-width: 1024px) {
     .place {
-        grid-template-columns: 1fr 1fr;
+        grid-template-columns: min-content 1fr;
         gap: 48px 32px;
+        margin: 0 auto;
     }
 }
 
