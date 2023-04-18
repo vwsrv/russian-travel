@@ -15,9 +15,9 @@
     }
 }
 
-@media (max-width: 767px) {
+@media (max-width: 769px) {
     .lead {
-        margin: 0px auto 88px;
+        width: 100%;
     }
 }
 

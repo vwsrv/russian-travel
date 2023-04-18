@@ -32,14 +32,14 @@
 
 
 
-@media (max-width: 1023px) {
+@media (max-width: 1025px) {
     .cover__overlay {
         min-height: 640px;
         margin: 0;
     }
 }
 
-@media (max-width: 767px) {
+@media (max-width: 769px) {
     .cover__overlay {
         min-height: 480px;
         margin: 0;

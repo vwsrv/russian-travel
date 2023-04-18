@@ -3,19 +3,19 @@
     box-sizing: border-box;
 }
 
-@media (min-width: 768px) and (max-width: 1024px) {
+@media (max-width: 1025px) {
     .place__image{
         max-width: 440px;
     }
 }
 
-@media (min-width: 425px) and (max-width: 768px) {
+@media (max-width: 769px) {
     .place__image{
         max-width: 340px;
     }
 }
 
-@media (max-width: 425px) {
+@media (max-width: 426px) {
     .place__image {
         max-width: 320px;
     }

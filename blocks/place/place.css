@@ -11,14 +11,14 @@
     margin: 0;
 }
 
-@media (max-width: 1023px) {
+@media (max-width: 1025px) {
     .place {
         gap: 48px 32px;
         margin: 0 auto 80px;
     }
 }
 
-@media (max-width: 767px) {
+@media (max-width: 769px) {
     .place {
         margin: 0px auto 73px;
         gap: 48px 28px;      

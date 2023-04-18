@@ -5,14 +5,21 @@
     color: white;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 1025px) {
+    .intro {
+        margin: 0 48px 92px;
+    }
+}
+
+
+@media (max-width: 769px) {
     .intro {
         margin: 0 auto 88px;
         max-width: calc(100% - 48px);
     }
 }
 
-@media (max-width: 424px) {
+@media (max-width: 426px) {
     .intro {
         margin: 0 auto 64px;
         max-width: calc(100% - 32px);

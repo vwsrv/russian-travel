@@ -19,7 +19,7 @@
     margin: 0;
 }
 
-@media (max-width: 424px) {
+@media (max-width: 426px) {
     .footer__link {
         display: flex;
         margin: 0 0 32px;
