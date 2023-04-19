@@ -3,7 +3,7 @@
 }
 
 .place__link:hover {
-    opacity: 0.8px;
+    opacity: 0.8;
     text-shadow: #FC0 1px 0 10px;
     transition: ease-in 0.1s;
 }

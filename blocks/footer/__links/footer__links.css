@@ -5,7 +5,7 @@
     flex-wrap: wrap;
 }
 
-@media (max-width: 426px) {
+@media (max-width: 691px) {
     .footer__links {
         flex-direction: column;
         margin: 0 0 48px;

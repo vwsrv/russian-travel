@@ -16,12 +16,11 @@
 
 @media (max-width: 769px) {
     .header {
-        margin: 28px auto 48px;
         max-width: calc(100% - 48px);
     }
 }
 
-@media (max-width: 426px) {
+@media (max-width: 691px) {
     .header {
         margin: 16px auto 48px;
         max-width: calc(100% - 32px);

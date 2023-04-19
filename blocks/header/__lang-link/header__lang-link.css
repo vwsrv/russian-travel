@@ -11,7 +11,7 @@
 }
 
 .header__lang-link:hover {
-    opacity: 0.8px;
+    opacity: 0.8;
     text-shadow: #FC0 1px 0 10px;
     transition: ease-in 0.1s;
 }
@@ -20,7 +20,7 @@
     text-decoration: underline;
 }
 
-@media (max-width: 426px) {
+@media (max-width: 691px) {
     .header__lang-link {
         font-size: 18px;
         line-height: 20px;

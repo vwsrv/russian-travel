@@ -8,7 +8,7 @@
     line-height: 163%;
 }
 
-@media (max-width: 426px) {
+@media (max-width: 691px) {
     .intro__text {
         font-size: 12px;
         line-height: 18px;

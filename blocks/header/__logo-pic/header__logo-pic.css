@@ -5,7 +5,7 @@
     max-height: 52px;
 }
 
-@media (max-width: 426px) {
+@media (max-width: 691px) {
     .header__logo-pic {
         max-width: 142px;
     }

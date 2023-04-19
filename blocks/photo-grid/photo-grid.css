@@ -3,3 +3,9 @@
     padding: 0;
     max-width: 1184px;
 }
+
+@media (max-width: 426px) {
+    .photo-grid {
+        margin: 0 auto 64px;
+    }
+}

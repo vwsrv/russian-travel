@@ -11,8 +11,9 @@
     color: #FFFFFF;
 }
 
-@media (max-width: 630px) {
+@media (max-width: 691px) {
     .cover__title {
+        margin: 0 auto 16px;
         font-size: 32px;
         line-height: 35px;
         max-width: 250px;

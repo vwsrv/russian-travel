@@ -9,7 +9,7 @@
     color: white;
 }
 
-@media (max-width: 1023px) {
+@media (max-width: 1025px) {
     .lead {
         width: calc(100% - 96px);
     }

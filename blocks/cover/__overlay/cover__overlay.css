@@ -1,5 +1,6 @@
 .cover__overlay {
     padding: 0;
+    margin: 0;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -35,20 +36,17 @@
 @media (max-width: 1025px) {
     .cover__overlay {
         min-height: 640px;
-        margin: 0;
     }
 }
 
 @media (max-width: 769px) {
     .cover__overlay {
         min-height: 480px;
-        margin: 0;
     }
 }
 
-@media (max-width: 630px) {
+@media (max-width: 691px) {
     .cover__overlay {
         min-height: 200px;
-        margin: 0;
     }
 }

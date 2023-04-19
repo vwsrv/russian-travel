@@ -11,7 +11,7 @@
     color: #FFFFFF;
 }
 
-@media (max-width: 630px) {
+@media (max-width: 691px) {
     .cover__subtitle {
         font-size: 14px;
         line-height: 16px;
