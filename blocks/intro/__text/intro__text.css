@@ -4,13 +4,6 @@
     list-style-type: none;
     font-style: normal;
     font-weight: 400;
-    font-size: 16px;
-    line-height: 163%;
-}
-
-@media (max-width: 691px) {
-    .intro__text {
-        font-size: 12px;
-        line-height: 18px;
-    }
+    font-size: 12px;
+    line-height: 26px;
 }
