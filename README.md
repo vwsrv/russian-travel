@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/vwsrv/russian-travel">
-    <img src="https://d1ka0itfguscri.cloudfront.net/AoR1/2024/02/16/09/58/cZnDQ9VddS7/preview.jpg" alt="Logo" width="80" height="80">
+    <img src="https://d1ka0itfguscri.cloudfront.net/AoR1/2024/02/16/09/58/cZnDQ9VddS7/preview.jpg" alt="Logo" width="150" height="80">
   </a>
 
   <h3 align="center">Russian Travel</h3>
@@ -46,4 +46,4 @@ Contributions are what make the open source community such an amazing place to b
 
 ## Authors
 
-* **Vasiliy Vissrov** - *Github https://github.com/vwsrv* - [Vasiliy Vissrov](https://github.com/ShaanCoding/) - *Built ReadME Template*
+* **Vasiliy Vissrov** - *Github https://github.com/vwsrv* - [Vasiliy Vissrov](https://github.com/vwsrv/)
