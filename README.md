@@ -1,33 +1,49 @@
-# Яндекс.Практикум
-# Проект: Путешествие по России
-# GH Pages: https://vwsrv.github.io/russian-travel/
+<br/>
+<p align="center">
+  <a href="https://github.com/vwsrv/russian-travel">
+    <img src="https://d1ka0itfguscri.cloudfront.net/AoR1/2024/02/16/09/58/cZnDQ9VddS7/preview.jpg" alt="Logo" width="80" height="80">
+  </a>
 
-`!NB!` Текущий проект выполнен c адаптацией элементов страницы по ширине экрана.
+  <h3 align="center">Russian Travel</h3>
 
-# Задачи и используемые технологии:
-- Изучить основы понятий макета и адаптивной верстки.
-- Изучить понятия и классификации резиновой и адаптивной версток.
-- Классификация подходов: Mobile first or Dekstop first?
-- Основы адаптивного макета.
-- Последствия использования неполного брифа/неточного макета.
-- Grid Layout ч.1 (гриды, столбцы и строки, отступы, функции, единицы измерения, области)
-- Grid Layout ч.2 (неявные строки, grid-auto-flow, выравнивание/схлопывание элементов, наложение элементов).
-- Закрепление основ методологии БЭМ для корректного наименования классов, с целью последующего переиспользования элементов.
-- Закрепление основ методологии БЭМ для корректного размещения файловой структуры сайта: блоков, страниц, и др.
-- Закрепление основ анимации элементов с помощью свойств CSS.
+  <p align="center">
+    Russian Travel project with adaptive and responsive.
+    <br/>
+    <br/>
+    <a href="https://vwsrv.github.io/russian-travel/">View Demo on Gh-Pages</a>
+    .
+    <a href="https://github.com/vwsrv/russian-travel/issues">Report Bug</a>
+    .
+    <a href="https://github.com/vwsrv/russian-travel/issues">Request Feature</a>
+    .
+    <a href="https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0">Figma Layout</a>
+  </p>
+</p>
 
-# Цели:
-- Апробация полученных теоретических и практических навыков на примере реального ТЗ:
-[Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
+![Downloads](https://img.shields.io/github/downloads/vwsrv/russian-travel/total) ![Contributors](https://img.shields.io/github/contributors/vwsrv/russian-travel?color=dark-green) ![Stargazers](https://img.shields.io/github/stars/vwsrv/russian-travel?style=social) ![Issues](https://img.shields.io/github/issues/vwsrv/russian-travel) 
 
+## About The Project
 
+![Screen Shot](https://d1ka0itfguscri.cloudfront.net/AoR1/2024/02/16/10/04/cZnD6fVddWk/preview.jpg)
 
-## HTML структура страницы:
-1. header
-2. content, который содержит секции:
-- lead
-- intro
-- photo-grid
-- places
-- cover
-3. footer
+Russian travel project. This landing page is created using adaptive and responsive layout.
+
+## Contributing
+
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+* If you have suggestions for adding or removing projects, feel free to [open an issue](https://github.com/vwsrv/russian-travel/issues/new) to discuss it, or directly create a pull request after you edit the *README.md* file with necessary changes.
+* Please make sure you check your spelling and grammar.
+* Create individual PR for each suggestion.
+* Please also read through the [Code Of Conduct](https://github.com/vwsrv/russian-travel/blob/main/CODE_OF_CONDUCT.md) before posting your first idea as well.
+
+### Creating A Pull Request
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+## Authors
+
+* **Vasiliy Vissrov** - *Github https://github.com/vwsrv* - [Vasiliy Vissrov](https://github.com/ShaanCoding/) - *Built ReadME Template*
